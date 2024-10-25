@@ -1,8 +1,8 @@
 # Portfolio
 
-[Version 1](https://dairemcsherry.github.io/Portfolio/index.txt.html)
+[Version 1](https://dairemcsherry.github.io/Portfolio/index.one.html)
 
-Creating my first HTML page 
+Creating my first HTML page
 
 [Version 2](https://dairemcsherry.github.io/Portfolio/index-two.html)
 
