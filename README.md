@@ -11,4 +11,3 @@ Added CSS
 [Version 3](https://dairemcsherry.github.io/Portfolio/index-three.html)
 
 Thrid and final version  
-
